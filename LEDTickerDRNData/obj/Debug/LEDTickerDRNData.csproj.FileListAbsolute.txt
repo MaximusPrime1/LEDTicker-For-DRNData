@@ -1,0 +1,6 @@
+c:\users\max\documents\visual studio 2013\Projects\LEDTickerDRNData\LEDTickerDRNData\bin\Debug\LEDTickerDRNData.exe.config
+c:\users\max\documents\visual studio 2013\Projects\LEDTickerDRNData\LEDTickerDRNData\bin\Debug\LEDTickerDRNData.exe
+c:\users\max\documents\visual studio 2013\Projects\LEDTickerDRNData\LEDTickerDRNData\bin\Debug\LEDTickerDRNData.pdb
+c:\users\max\documents\visual studio 2013\Projects\LEDTickerDRNData\LEDTickerDRNData\obj\Debug\LEDTickerDRNData.csprojResolveAssemblyReference.cache
+c:\users\max\documents\visual studio 2013\Projects\LEDTickerDRNData\LEDTickerDRNData\obj\Debug\LEDTickerDRNData.exe
+c:\users\max\documents\visual studio 2013\Projects\LEDTickerDRNData\LEDTickerDRNData\obj\Debug\LEDTickerDRNData.pdb
